@@ -1,5 +1,5 @@
 #  Task steps
-## 1. Boot your laptop.
+# 1. Boot your laptop.
 ## 2. Open your browser.
 ## 3. Go to GitHub web page(https://github.com/"yourusername").
 ## 4. Press "Repository".
