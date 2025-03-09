@@ -8,7 +8,7 @@
 7. Press "Create repository".
 8. Follow GitHub instructions.
 9. Fill down README.md file.
-10. Open your "test*folder" in Visual Studio.
+10. Open your "test folder" in Visual Studio.
 11. Right click on README.md, Open in integrated terminal.
 12. Run next commands one by one: git add README.md, git commit -m "your message", git push origin "your branch".
 13. If everything is ok, check your remote repository.
@@ -28,4 +28,4 @@
 20. In case of further conflicts you can also try to: git add "conflict file name", but this time without commit.
 21. Then run git rebase --continue.
 22. If everything is ok, git push origin "your branch".
-23. Check if everything is ok, in case of emergency or other errors please find me in Discord, my*nickname.
+23. Check if everything is ok, in case of emergency or other errors please find me in Discord, mynickname.
