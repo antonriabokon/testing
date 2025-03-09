@@ -26,6 +26,6 @@
 
 19. Run prefered by you command.
 20. In case of further conflicts you can also try to: git add "conflict file name", but this time without commit.
-21. Then run git rebase --continue.
-22. If everything is ok, git push origin "your branch".
+21. Then run: git rebase --continue.
+22. If everything is ok - git push origin "your branch".
 23. Check if everything is ok, in case of emergency or other errors please find me in Discord, mynickname.
